@@ -1,0 +1,33 @@
+
+
+body { background: white; color: #000; font-size: 13px; font-family: Verdana, Arial, Tahoma, Geneva, sans-serif ;}
+
+
+/* Sidebar */
+.sidebar {height: 100%; width: 200px; padding-left: 32px; padding-top: 48px; margin-left: 16px; position: fixed; background-color: white; line-height: 20px; z-index: 10;}
+
+/* Home */
+.home a{ color:#000; background:transparent; text-decoration:none; font-size: 16px; }
+
+/* Title */
+.title h1 { font-size: 16px; font-weight: bold; line-height: 20px; padding-top: 8px;}
+
+/* INDEX */
+/* Link Menu */
+.menu h2 { font-size: 11px; font-weight: bold; line-height: 8px; padding-top: 16px; }
+.menu a { color:#000; background:transparent; text-decoration:none; font-size: 14px; }
+.sidebar ul { list-style-type: none; padding-left: 0; }
+
+/* Separator */
+.separator {padding-top: 40px;}
+
+/* Links */
+.links a { color:#000; background:transparent; font-size: 12px; }
+
+/* Footer */
+.footer {position: fixed; top: 590px; left: 56px;}
+.footer p {font-size: 12px; font-weight: normal; line-height: 16px;}
+
+/* SUBPAGES */
+.subtitle p { color:#000; background:transparent; text-decoration:none; font-size: 14px; padding-top: 24px;}
+
